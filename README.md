@@ -1,4 +1,4 @@
 # Custom UI Component with Jetpack Compose & Canvas
 
 ## Design Overview
-![Night](https://user-images.githubusercontent.com/83513508/134738557-2559464d-8bb0-46de-95af-0493aa138b2d.gif)
+![Day](https://user-images.githubusercontent.com/83513508/134739505-b5a395f1-e681-4c38-9ec5-c6ef4cc22d0d.gif)
